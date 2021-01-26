@@ -48,7 +48,7 @@
                 <div class="col-12">
                     <div class="card-deck">
                         <div class="card mb-1">
-                            <h5 class="card-header" style="background-color:#c5d7eb; color:#000">Add / Remove Positions:
+                            <h5 class="card-header">Add / Remove Positions:
                             </h5> <br>
                             <div class="card-deck p-2">
                                 <div class="card mb-1">
