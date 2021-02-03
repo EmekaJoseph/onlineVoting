@@ -31,20 +31,17 @@
         <div class=" row w-100 justify-content-center footer">
             &copy;&nbsp;2020 iProffix | 08139590011
         </div>
-
-        <script src="/vendor/fonts/font-awesome-5.15.1/js/all.js"></script>
-        <script src="/vendor/jquery/jquery-3.5.1.js"></script>
-        <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="/vendor/js/moment.min.js"></script>
-        <script src="/vendor/js/sweetalert2.js"></script>
-
-        <!-- <script src="../vendor/js/datatables.js"></script> -->
-        <!-- <script src="/vendor/js/custom/voterControl.js"></script> -->
-        <script src="/vendor/js/custom/System.js"></script>
+    </div>
 
 </body>
+<script src="/vendor/fonts/font-awesome-5.15.1/js/all.js"></script>
+<script src="/vendor/jquery/jquery-3.5.1.js"></script>
+<script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/vendor/js/moment.min.js"></script>
+<script src="/vendor/js/sweetalert2.js"></script>
 
-
-</html>
+<!-- <script src="../vendor/js/datatables.js"></script> -->
+<!-- <script src="/vendor/js/custom/voterControl.js"></script> -->
+<script src="/vendor/js/custom/System.js"></script>
 
 </html>
